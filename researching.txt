@@ -4,3 +4,4 @@ https://www.youtube.com/watch?v=rw_JITpbh3k&list=PLJePd8QU_LYKZwJnByZ8FHDg5l1rXt
 https://www.youtube.com/watch?v=FDHj1OJJcPs&t=268s
 https://github.com/visnjicm/verilog-neural-network?tab=readme-ov-file
 https://ieeexplore.ieee.org/abstract/document/9952365
+https://www.csus.edu/indiv/t/tatror/senior_design/SD%20F17-S18/Team_6_Application_in_Artifical_Intelligence_Maze_Solving_Robot.pdf
